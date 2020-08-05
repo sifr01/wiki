@@ -11,4 +11,3 @@ ifconfig wlan0 up
 iwconfig wlan0			#check tx power
 
 iwconfig wlan0 txpower 30	#alternate way to directly set txpower
-
