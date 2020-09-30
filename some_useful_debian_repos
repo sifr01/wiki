@@ -2,6 +2,10 @@
 # you may want to put some of these in separate files such as 
 # /etc/apt/sources.list.d/[filename].list
 
+# gpg keys can be retreived from:
+#  keyserver hkp://jirk5u4osbsr34t5.onion
+#  keyserver hkp://pool.sks-keyservers.net
+
 # 1.0 You will need to install apt-transport-https to torify apt
 #   Source: https://onion.debian.org/
 
