@@ -3,6 +3,7 @@
 # /etc/apt/sources.list.d/[filename].list
 
 # You will need to install apt-transport-https to torify apt
+# Source: https://onion.debian.org/
 
 #1.1 Debian
 deb tor+http://vwakviie2ienjx6t.onion/debian/ buster main
