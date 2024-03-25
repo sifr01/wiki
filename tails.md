@@ -5,4 +5,4 @@ The tails team gave me this business card at a tech conference years ago. It con
 
 ![tails business card](./imgs/tails_card.jpeg)
 
-Signing key fingerprint: A490 D0F4 D311 A415 3E2B  B7CA DBB8 02B2 58AC D84F
+*Signing key fingerprint:* `A490 D0F4 D311 A415 3E2B  B7CA DBB8 02B2 58AC D84F`
