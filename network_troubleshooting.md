@@ -1,4 +1,11 @@
-#### Do not use this on any device that does not belong to you
+
+`lsof -P -i -n`
+
+To find a listener on a port:
+`netstat -tln`
+
+
+#### Do not use the following on any device that does not belong to you
 Check your firewall externally using the following commands
 
 Brief scan of ports:
