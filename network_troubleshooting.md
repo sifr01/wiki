@@ -31,3 +31,7 @@ or
 6. View open ports on devices in your LAN:
 
 `sudo nmap 192.168.1.0/24`
+
+7. To scan multiple ports, you need to separate them with commas as shown here:
+
+`nmap -p 22,25,80 192.168.1.1`
